@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 print("----------------- The PHOENIX Developer Studio -----------------")
 """
-@date: 2018-10-30
-@author: Piotr Krol
+@date:    2018-10-30
+@author:  Piotr Krol
 @website: simon-phoenix.se
 This program is getting your name, surname and personnummer (ÅÅMMDD-NNNC)
 """
